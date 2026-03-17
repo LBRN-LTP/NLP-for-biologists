@@ -1,0 +1,17 @@
+sentence,target,context_tokens,bio_score,eng_score,prediction,true_label
+The CAT gene showed increased expression in liver tissue.,CAT,"['the', 'gene', 'showed', 'increased', 'expression']",2,0,gene,gene
+The black cat slept on the sofa all afternoon.,CAT,"['the', 'black', 'slept', 'on', 'the', 'sofa']",0,3,english,english
+Mutation in CAT was associated with oxidative stress response.,CAT,"['mutation', 'in', 'was', 'associated', 'with', 'oxidative']",3,0,gene,gene
+The cat chased a mouse in the garden.,CAT,"['the', 'chased', 'a', 'mouse', 'in']",0,2,english,english
+MAP kinase signaling plays a major role in cell proliferation.,MAP,"['kinase', 'signaling', 'plays', 'a']",2,0,gene,gene
+She unfolded the map before starting the journey.,MAP,"['she', 'unfolded', 'the', 'before', 'starting', 'the', 'journey']",0,3,english,english
+The expression of MAP was elevated after treatment.,MAP,"['the', 'expression', 'of', 'was', 'elevated', 'after', 'treatment']",1,0,gene,gene
+The map showed the location of the river.,MAP,"['the', 'showed', 'the', 'location', 'of']",0,0,uncertain,english
+SET regulates chromatin remodeling in cancer cells.,SET,"['regulates', 'chromatin', 'remodeling', 'in']",2,0,gene,gene
+Please set the timer for ten minutes.,SET,"['please', 'the', 'timer', 'for', 'ten']",0,1,english,english
+Overexpression of SET was detected in the tumor sample.,SET,"['overexpression', 'of', 'was', 'detected', 'in', 'the']",2,0,gene,gene
+They set the books on the table.,SET,"['they', 'the', 'books', 'on', 'the']",0,1,english,english
+WAS deficiency is linked to immunological dysfunction.,WAS,"['deficiency', 'is', 'linked', 'to']",1,0,gene,gene
+He was tired after the meeting.,WAS,"['he', 'tired', 'after', 'the', 'meeting']",0,2,english,english
+The WAS gene is involved in actin cytoskeleton regulation.,WAS,"['the', 'gene', 'is', 'involved', 'in']",2,0,gene,gene
+She was happy with the results.,WAS,"['she', 'happy', 'with', 'the', 'results']",0,2,english,english

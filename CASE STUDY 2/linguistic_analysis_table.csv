@@ -1,0 +1,17 @@
+sentence,target,lemma,pos,tag,dependency,head,left_context,right_context,true_label
+The CAT gene showed increased expression in liver tissue.,CAT,CAT,PROPN,NNP,compound,gene,The,gene showed increased,gene
+The black cat slept on the sofa all afternoon.,cat,cat,NOUN,NN,nsubj,slept,The black,slept on the,english
+Mutation in CAT was associated with oxidative stress response.,CAT,CAT,PROPN,NNP,pobj,in,Mutation in,was associated with,gene
+The cat chased a mouse in the garden.,cat,cat,NOUN,NN,nsubj,chased,The,chased a mouse,english
+MAP kinase signaling plays a major role in cell proliferation.,MAP,MAP,PROPN,NNP,compound,kinase,,kinase signaling plays,gene
+She unfolded the map before starting the journey.,map,map,NOUN,NN,dobj,unfolded,She unfolded the,before starting the,english
+The expression of MAP was elevated after treatment.,MAP,MAP,PROPN,NNP,pobj,of,The expression of,was elevated after,gene
+The map showed the location of the river.,map,map,NOUN,NN,nsubj,showed,The,showed the location,english
+SET regulates chromatin remodeling in cancer cells.,SET,SET,PROPN,NNP,nsubj,regulates,,regulates chromatin remodeling,gene
+Please set the timer for ten minutes.,set,set,VERB,VB,ROOT,set,Please,the timer for,english
+Overexpression of SET was detected in the tumor sample.,SET,SET,PROPN,NNP,pobj,of,Overexpression of,was detected in,gene
+They set the books on the table.,set,set,VERB,VBD,ROOT,set,They,the books on,english
+WAS deficiency is linked to immunological dysfunction.,WAS,be,AUX,VBD,auxpass,linked,,deficiency is linked,gene
+He was tired after the meeting.,was,be,AUX,VBD,ROOT,was,He,tired after the,english
+The WAS gene is involved in actin cytoskeleton regulation.,WAS,WAS,PROPN,NNP,amod,gene,The,gene is involved,gene
+She was happy with the results.,was,be,AUX,VBD,ROOT,was,She,happy with the,english
