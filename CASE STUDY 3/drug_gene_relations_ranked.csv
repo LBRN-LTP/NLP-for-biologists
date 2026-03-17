@@ -1,0 +1,6 @@
+gene,drug,sentence_count,paper_count
+TNF,adalimumab,3,3
+TNF,infliximab,2,2
+TNF,methotrexate,2,2
+STAT3,adalimumab,1,1
+TNF,apremilast,1,1

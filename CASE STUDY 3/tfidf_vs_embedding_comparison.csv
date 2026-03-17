@@ -1,0 +1,31 @@
+query,method,rank,pmid,title,score
+cutaneous inflammation,TF-IDF,1,41596068,Specialized Pro-Resolving Lipid Mediators and Dietary Omega-3/6 Fatty Acids in Selected Inflammatory Skin Diseases: A Systematic Review.,0.12725153827625352
+cutaneous inflammation,TF-IDF,2,41465136,From Skin to Brain: Key Genetic Mediators Associating Cutaneous Inflammation and Neurodegenerative Diseases.,0.12540920481000722
+cutaneous inflammation,TF-IDF,3,41583484,The research potential of A20 in psoriatic arthritis.,0.11222543872995538
+cutaneous inflammation,Embedding,1,41479908,Keratinocytes as active regulators of cutaneous and mucosal immunity: a systematic review across inflammatory epithelial disorders.,0.5393850803375244
+cutaneous inflammation,Embedding,2,41474658,Bridging the Gap: Characterizing Complex Immune-Mediated Inflammatory Diseases with Cutaneous Manifestations.,0.5332326889038086
+cutaneous inflammation,Embedding,3,41401983,"Topical steroid withdrawal: a serious, under-recognised skin condition.",0.5264540314674377
+skin inflammation,TF-IDF,1,41504035,hAD-MSCs Ameliorated Psoriasis-Like Skin Inflammation by Inhibiting the Neutrophil Migration.,0.21776110405258114
+skin inflammation,TF-IDF,2,41595601,Keratinocyte HIF-1α Orchestrates Imiquimod-Induced Psoriasiform Inflammation by Promoting Type 3 Inflammation.,0.18899672797749728
+skin inflammation,TF-IDF,3,41594593,Protein S-Palmitoylation as Potential Therapeutic Target for Dermatoses.,0.16570452159642052
+skin inflammation,Embedding,1,41477277,Anti-Inflammatory Effect of <i>Urtica urens</i> on LPS-Challenged Keratinocytes.,0.5839931964874268
+skin inflammation,Embedding,2,41479908,Keratinocytes as active regulators of cutaneous and mucosal immunity: a systematic review across inflammatory epithelial disorders.,0.5686551928520203
+skin inflammation,Embedding,3,41408908,Cross Disease Single-Cell Meta-Analysis Deciphers Conserved Pan-Inflammatory Circuits and Divergent Endothelial Rewiring in Inflammatory Skin Pathogenesis.,0.559973955154419
+immune pathway in psoriasis,TF-IDF,1,41403266,Reduced Fibrinolysis Links Obesity to Cardiovascular Risk in Psoriasis Independently of Inflammation: A Novel Mechanistic Pathway.,0.23914324273570123
+immune pathway in psoriasis,TF-IDF,2,41408331,Human urine-derived stem cells alleviate psoriasis by suppressing JAK2/STAT3 pathway-mediated macrophage polarization.,0.18199237762498863
+immune pathway in psoriasis,TF-IDF,3,41453833,Dermatology 2.0: Precision medicine for inflammatory skin diseases.,0.14838673502195968
+immune pathway in psoriasis,Embedding,1,41425939,Psoriasis and gut microbes: research advances from mechanism to therapy.,0.7218579053878784
+immune pathway in psoriasis,Embedding,2,41517378,Unravelling the Mystery of Psoriasis Dermatitis (PsoDermatitis): A Practical Guide to Recognition and Management.,0.7083198428153992
+immune pathway in psoriasis,Embedding,3,41421479,Relation Between Gut Microbiome and Inflammatory Interleukins in Psoriasis Patients Compared to Healthy Controls: An Observational Study.,0.6886382699012756
+biologic drug response,TF-IDF,1,41419127,When profit shapes prescriptions: The dilemma of insurer-driven biologic switching.,0.3245685323570831
+biologic drug response,TF-IDF,2,41445854,Unsaturated Fatty Acid Metabolic Reprogramming in Psoriatic Skin Drives Inflammation and Predicts Response to Biologic Therapy.,0.22731338332594003
+biologic drug response,TF-IDF,3,41614129,"Pharmacomicrobiomics in inflammatory skin diseases: past, present, and the future.",0.17905790926992055
+biologic drug response,Embedding,1,41614129,"Pharmacomicrobiomics in inflammatory skin diseases: past, present, and the future.",0.4731699824333191
+biologic drug response,Embedding,2,41445692,A phase 1 experimental medicine study of anti-CD3 monoclonal antibody in rheumatoid arthritis.,0.4396381080150604
+biologic drug response,Embedding,3,41419137,"Cancer progression, recurrence, and infection outcomes in psoriasis patients with active or recent malignancy treated with biologic therapy: A cohort study showing comparable safety to conventional agents.",0.43864747881889343
+molecular signaling in keratinocytes,TF-IDF,1,41479908,Keratinocytes as active regulators of cutaneous and mucosal immunity: a systematic review across inflammatory epithelial disorders.,0.23610104895544476
+molecular signaling in keratinocytes,TF-IDF,2,41477326,Elevated SNHG15 empowers keratinocytes hyperproliferation through activation of STAT3/Cyclin D1 axis in psoriasis.,0.18232828756867953
+molecular signaling in keratinocytes,TF-IDF,3,41453833,Dermatology 2.0: Precision medicine for inflammatory skin diseases.,0.14154080240740827
+molecular signaling in keratinocytes,Embedding,1,41479908,Keratinocytes as active regulators of cutaneous and mucosal immunity: a systematic review across inflammatory epithelial disorders.,0.6312950253486633
+molecular signaling in keratinocytes,Embedding,2,41477277,Anti-Inflammatory Effect of <i>Urtica urens</i> on LPS-Challenged Keratinocytes.,0.6009746789932251
+molecular signaling in keratinocytes,Embedding,3,41595601,Keratinocyte HIF-1α Orchestrates Imiquimod-Induced Psoriasiform Inflammation by Promoting Type 3 Inflammation.,0.5964010953903198
